@@ -1,3 +1,4 @@
+# Walmart-s-Retail-Insights-Optimization-SQL-Project
 This project focuses on extracting actionable business insights from Walmart’s sales data using advanced MySQL queries. Key highlights include:
 
 Analyzing sales growth, customer segmentation, and product performance across branches
